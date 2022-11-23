@@ -1,2 +1,2 @@
 # PaperReading
-Paper Reading of IMCC groups.
+Paper Reading of IMCC group.
