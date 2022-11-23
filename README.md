@@ -21,5 +21,5 @@ For any interest in our report or our lab, please contract with Doctor [Chuanbin
 ## Schedule
 
 | Date      | Presenter | Venue | Paper Title | Slides | 
-| --------- | --------- | ----- | ----------- | ------ |
+| :---------: | :---------: | :-----: | :-----------: | :------: |
 | 2020.04.12 | [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/) |NeurIPS 2019 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html) | [Slides](Slides/20200412.pdf) |
