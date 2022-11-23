@@ -3,7 +3,7 @@ We are the **I**ntelligent **M**ultimedia **C**ontent **C**omputing (**IMCC**) L
 
 This paper reading report about Computer Vision, with special emphasis on **Fine-grained Recognition**, **Weakly-supervised Learning**, **Causal Inference**, **Imperfect Data Learning** and relevant topics. We aim to provide an opportunity for students, researchers and faculties to discuss and keep eyes on the current progress in Computer Vision, and to learn how to do high-quality research.
 
-For any interest in our report or our lab, please contract with Doctor [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/).
+For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/).
 
 
 ## Format
