@@ -10,13 +10,13 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                              | Slides                        |
 |:----------:|:------------------------------------------------:|:------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|
-| 2020.04.12 | [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/) | NeurIPS 2019 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html) | [Slides](Slides/20200412.pdf) |
+| 2020.04.12 | [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/) | NeurIPS 2019 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html) | [Slides](Slides/lcb_20200412.pdf) |
 
 - **Date**: The date of the report. Please arrange in **reverse chronological order**.
 - **Presenter**: The presenter of the report. You can also provide your **personal link**.
 - **Venue**: The Venue of the report.
 - **Paper Title**: Provide the title and link of this paper.
-- **Slides**: Please convert your **.ppt** document to **.pdf** document, and keep it within **5M**. As you know, GitHub limits the size of files and the storage of repositories. Also please upload your **.ppt** document to **our tencent document**.
+- **Slides**: Please convert your **.ppt** document to **.pdf** document with name **Presenter_Date** (e.g. **lcb_20200412**), and keep it within **5M**. As you know, GitHub limits the size of files and the storage of repositories. Also please upload your **.ppt** document to **our tencent document**.
 
 ## Schedule
 
@@ -24,5 +24,5 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
 | 2022.11.28 | Yunning Cao                                      | CVPR 2022    | [Fine-Grained Object Classification via Self-Supervised Pose Alignment](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Fine-Grained_Object_Classification_via_Self-Supervised_Pose_Alignment_CVPR_2022_paper.html) | [Slides](Slides/cyn_20221127.pdf) |
 | 2022.11.28 | [Zhiying Lu](https://github.com/ArieSeirack)     | ECCV 2022    | [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/abs/2207.08409) | [Slides](Slides/lzy_20220905.pdf) |
-| 2020.04.12 | [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/) | NeurIPS 2019 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html)                                                     | [Slides](Slides/20200412.pdf)     |
+| 2020.04.12 | [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/) | NeurIPS 2019 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html)                                                     | [Slides](Slides/lcb_20200412.pdf)     |
 
