@@ -11,7 +11,6 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 | Date      | Presenter | Venue | Paper Title | Slides | 
 | :---------: | :---------: | :-----: | :-----------: | :------: |
 | 2020.04.12 | [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/) |NeurIPS 2019 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html) | [Slides](Slides/20200412.pdf) |
-| 2022.12.14 | Fanchao Lin |CVPR 2022 | [Recurrent Dynamic Embedding for Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Recurrent_Dynamic_Embedding_for_Video_Object_Segmentation_CVPR_2022_paper.html) | [Slides](Slides/20221214.pdf) |
 
 - **Date**: The date of the report. Please arrange in **reverse chronological order**.
 - **Presenter**: The presenter of the report. You can also provide your **personal link**.
@@ -24,3 +23,4 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 | Date      | Presenter | Venue | Paper Title | Slides | 
 | :---------: | :---------: | :-----: | :-----------: | :------: |
 | 2020.04.12 | [Chuanbin Liu](http://home.ustc.edu.cn/~lcb592/) |NeurIPS 2019 | [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html) | [Slides](Slides/20200412.pdf) |
+| 2022.12.14 | Fanchao Lin |CVPR 2022 | [Recurrent Dynamic Embedding for Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Recurrent_Dynamic_Embedding_for_Video_Object_Segmentation_CVPR_2022_paper.html) | [Slides](Slides/20221214.pdf) |
