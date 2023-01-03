@@ -22,7 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2023.01.03 | Yunning Cao | ICLR2023在审 | [Image as Set of Points](https://openreview.net/pdf?id=awnvqZja69) | [Slides](Slides/cyn_20230102.pdf)|
+|2023.01.03 | Yunning Cao | ICLR 2023 | [Image as Set of Points](https://openreview.net/pdf?id=awnvqZja69) | [Slides](Slides/cyn_20230102.pdf)|
 |2022.12.19|Yiwei Sun|-|FGVC调研报告|[Slides](Slides/syw_20221219.pdf)|
 | 2022.12.14 | Fanchao Lin| CVPR 2022 | [Recurrent Dynamic Embedding for Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Recurrent_Dynamic_Embedding_for_Video_Object_Segmentation_CVPR_2022_paper.html) | [Slides](Slides/lfc_20221214.pdf)     |
 | 2022.12.05 | Yunyan Yan                                      | AAAI 2019    | [Gradient Harmonized Single-Stage Detector](https://ojs.aaai.org/index.php/AAAI/article/view/4877) | [Slides](Slides/yyy_20221205.pdf) |
