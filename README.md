@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.02.27 | Fanchao Lin | NIPS 2022 | [Training language models to follow instructions with human feedback](https://openreview.net/pdf?id=TG8KACxEON) | [Slides](Slides/lfc_20220227.pdf)|
 |2023.02.06 | Yunyan Yan | CVPR 2022 | [A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_A_Re-Balancing_Strategy_for_Class-Imbalanced_Classification_Based_on_Instance_Difficulty_CVPR_2022_paper.pdf) | [Slides](Slides/yyy_20230206.pdf)|
 |2023.01.03 | Yunning Cao | ICLR 2023 | [Image as Set of Points](https://openreview.net/pdf?id=awnvqZja69) | [Slides](Slides/cyn_20230102.pdf)|
 |2022.12.19|Yiwei Sun|-|FGVC调研报告|[Slides](Slides/syw_20221219.pdf)|
