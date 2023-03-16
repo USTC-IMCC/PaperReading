@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.03.13 | Jingyuan Xu | ICLR 2023 | [F-VLM: OPEN-VOCABULARY OBJECT DETECTION UPON FROZEN VISION AND LANGUAGE MODELS](https://arxiv.org/abs/2209.15639) | [Slides](20230313-F-VLM 徐静远.pdf)|
 |2023.03.06 | Yixuan Zhang | ECCV 2022 | [Adaptive Token Sampling For Efficient Vision Transformers](https://arxiv.org/abs/2111.15667) | [Slides](Slides/zyx_20230306.pdf)|
 |2023.02.27 | Fanchao Lin | NIPS 2022 | [Training language models to follow instructions with human feedback](https://openreview.net/pdf?id=TG8KACxEON) | [Slides](Slides/lfc_20230227.pdf)|
 |2023.02.20 | Yifan Gao | NIPS 2022 | [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892) | [Slides](Slides/gyf_20230220.pdf)
