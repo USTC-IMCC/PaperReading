@@ -22,7 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2023.04.23 | Zhiying Lu | CVPR2023 | Non-Global Attention Mechanisms In Vision Transformers | [Slides](Slides/lzy_20230427.pdf)|
+|2023.04.27 | Zhiying Lu | CVPR2023 | Non-Global Attention Mechanisms In Vision Transformers | [Slides](Slides/lzy_20230427.pdf)|
 |2023.04.10 | Yunning Cao | arxiv | [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) | [Slides](Slides/cyn_20230411SAM.pdf)|
 |2023.03.27|Yiwei Sun|-|How to help your ViT learn the inductive bias?|[Slides](Slides/syw_20230327.pdf)|
 |2023.03.20|Yunyan Yan|-|Regression: Representation Space|[Slides](Slides/yyy_20230320.pdf)|
