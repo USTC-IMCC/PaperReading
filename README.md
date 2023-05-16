@@ -22,7 +22,14 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.04.27 | Zhiying Lu | CVPR2023 | Non-Global Attention Mechanisms In Vision Transformers | [Slides](Slides/lzy_20230427.pdf)|
+|2023.04.10 | Yunning Cao | arxiv | [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) | [Slides](Slides/cyn_20230411SAM.pdf)|
+|2023.03.27|Yiwei Sun|-|How to help your ViT learn the inductive bias?|[Slides](Slides/syw_20230327.pdf)|
+|2023.03.20|Yunyan Yan|-|Regression: Representation Space|[Slides](Slides/yyy_20230320.pdf)|
+|2023.03.13 | Jingyuan Xu | ICLR 2023 | [F-VLM: OPEN-VOCABULARY OBJECT DETECTION UPON FROZEN VISION AND LANGUAGE MODELS](https://arxiv.org/abs/2209.15639) | [Slides](Slides/xujy20230313FVLM.pdf)|
+|2023.03.06 | Yixuan Zhang | ECCV 2022 | [Adaptive Token Sampling For Efficient Vision Transformers](https://arxiv.org/abs/2111.15667) | [Slides](Slides/zyx_20230306.pdf)|
 |2023.02.27 | Fanchao Lin | NIPS 2022 | [Training language models to follow instructions with human feedback](https://openreview.net/pdf?id=TG8KACxEON) | [Slides](Slides/lfc_20230227.pdf)|
+|2023.02.20 | Yifan Gao | NIPS 2022 | [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892) | [Slides](Slides/gyf_20230220.pdf)
 |2023.02.06 | Yunyan Yan | CVPR 2022 | [A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_A_Re-Balancing_Strategy_for_Class-Imbalanced_Classification_Based_on_Instance_Difficulty_CVPR_2022_paper.pdf) | [Slides](Slides/yyy_20230206.pdf)|
 |2023.01.03 | Yunning Cao | ICLR 2023 | [Image as Set of Points](https://openreview.net/pdf?id=awnvqZja69) | [Slides](Slides/cyn_20230102.pdf)|
 |2022.12.19|Yiwei Sun|-|FGVC调研报告|[Slides](Slides/syw_20221219.pdf)|
