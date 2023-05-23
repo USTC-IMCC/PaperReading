@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.05.23 | Jingyuan Xu | CVPR2023 | Aligning Bag of Regions for Open-Vocabulary Object Detection | [Slides](Slides/xjy20230523ovod.pdf)|
 |2023.05.15 | Fanchao Lin | arxiv | A demo survey on recent fundamental models and applications | [Slides](Slides/lfc_20230515.pdf)|
 |2023.05.08 | Yifan Gao | - | A Survey on Fine-Grained Self-Supervised Learning | [Slides](Slides/gyf_20230508.pdf)|
 |2023.04.27 | Zhiying Lu | CVPR2023 | Non-Global Attention Mechanisms In Vision Transformers | [Slides](Slides/lzy_20230427.pdf)|
