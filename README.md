@@ -22,6 +22,8 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.06.08 | Pandeng Li | - | A Survey on Multi-modal Pretraining  | [Slides](Slides/lpd_20230608Pretraining.pdf)|
+|2023.06.08 | Yunning Cao | - | A Survey on Visual Tuning  | [Slides](Slides/cyn_20230608VisualTuning.pdf)|
 |2023.06.05 | Zhiying Lu | arxiv | VanillaNet: the Power of Minimalism in Deep Learning  | [Slides](Slides/lzy_20230605.pdf)|
 |2023.05.29 | Yunning Cao | CVPR2023 | Texts as Images in Prompt Tuning for Multi-Label Image Recognition  | [Slides](Slides/cyn_20230529TextasImage.pdf)|
 |2023.05.23 | Jingyuan Xu | CVPR2023 | Aligning Bag of Regions for Open-Vocabulary Object Detection | [Slides](Slides/xjy_20230523ovod.pdf)|
