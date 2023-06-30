@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.06.08 | Borui Ding | NIPS2023 | Vision Transformer Adapter For Dense Predictions | [Slides](Slides/dbr_20230620.pdf)|
 |2023.06.08 | Pandeng Li | - | A Survey on Multi-modal Pretraining  | [Slides](Slides/lpd_20230608Pretraining.pdf)|
 |2023.06.08 | Yunning Cao | - | A Survey on Visual Tuning  | [Slides](Slides/cyn_20230608VisualTuning.pdf)|
 |2023.06.05 | Zhiying Lu | arxiv | VanillaNet: the Power of Minimalism in Deep Learning  | [Slides](Slides/lzy_20230605.pdf)|
