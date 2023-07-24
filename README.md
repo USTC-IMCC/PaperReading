@@ -22,7 +22,8 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2023.06.26 | Tinle Hu | CVPR2023 | SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer | [Slides](Slides/hutl_20230704.pdf)|
+|2023.07.11 | Yiwei Sun | CVPR2023 | [Extracting Class Activation Maps from Non-Discriminative Features as well](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Extracting_Class_Activation_Maps_From_Non-Discriminative_Features_As_Well_CVPR_2023_paper.pdf) | [Slides](Slides/syw_20230711.pdf)|
+|2023.07.04 | Tinle Hu | CVPR2023 | SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer | [Slides](Slides/hutl_20230704.pdf)|
 |2023.06.26 | Yixuan Zhang | ICLR2023 | Context Autoencoder for Self-Supervised Representation Learning | [Slides](Slides/zyx_20230626.pdf)|
 |2023.06.26 | Tianhao Qi | - | A Survey on Controllable Text-to-Image Diffusion Models  | [Slides](Slides/qth_20230626.pdf)|
 |2023.06.19 | Borui Ding | NIPS2023 | Vision Transformer Adapter For Dense Predictions | [Slides](Slides/dbr_20230620.pdf)|
