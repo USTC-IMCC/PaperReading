@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.11.01 | Yifan Gao | - | Image-based Visual Try-on | [Slides](Slides/gyf_20231101.pdf)|
 |2023.10.10 | Yiwei Sun | - | A Survey on Compositional Understanding  | [Slides](Slides/syw_20231010.pdf)|
 |2023.09.26 | Zhiying Lu | - | I can't believe there is no training!  | [Slides](Slides/lzy_20230926.pdf)|
 |2023.09.12 | Yunning Cao | ICCV2023 | [I can’t believe there’s no images! Learning Visual Tasks Using Only Language Supervision](https://arxiv.org/pdf/2211.09778.pdf) | [Slides](Slides/cyn_20230912MG.pdf)|
