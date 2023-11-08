@@ -22,7 +22,12 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2023.06.26 | Tinle Hu | CVPR2023 | SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer | [Slides](Slides/hutl_20230704.pdf)|
+|2023.10.10 | Yiwei Sun | - | A Survey on Compositional Understanding  | [Slides](Slides/syw_20231010.pdf)|
+|2023.09.26 | Zhiying Lu | - | I can't believe there is no training!  | [Slides](Slides/lzy_20230926.pdf)|
+|2023.09.12 | Yunning Cao | ICCV2023 | [I can’t believe there’s no images! Learning Visual Tasks Using Only Language Supervision](https://arxiv.org/pdf/2211.09778.pdf) | [Slides](Slides/cyn_20230912MG.pdf)|
+|2023.07.25 | Jingyuan Xu | CVPR2022 | [Grounded_Language-Image_Pre-Training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf) | [Slides](Slides/xujy20230725-GLIP.pdf)|
+|2023.07.11 | Yiwei Sun | CVPR2023 | [Extracting Class Activation Maps from Non-Discriminative Features as well](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Extracting_Class_Activation_Maps_From_Non-Discriminative_Features_As_Well_CVPR_2023_paper.pdf) | [Slides](Slides/syw_20230711.pdf)|
+|2023.07.04 | Tinle Hu | CVPR2023 | SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer | [Slides](Slides/hutl_20230704.pdf)|
 |2023.06.26 | Yixuan Zhang | ICLR2023 | Context Autoencoder for Self-Supervised Representation Learning | [Slides](Slides/zyx_20230626.pdf)|
 |2023.06.26 | Tianhao Qi | - | A Survey on Controllable Text-to-Image Diffusion Models  | [Slides](Slides/qth_20230626.pdf)|
 |2023.06.19 | Borui Ding | NIPS2023 | Vision Transformer Adapter For Dense Predictions | [Slides](Slides/dbr_20230620.pdf)|
