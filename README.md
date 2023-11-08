@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2023.11.07 | Tianle Hu | ICCV2023 | [Waffling around for Performance: Visual Classification with Random Words and Broad Concepts](https://arxiv.org/abs/2306.07282) | [Slides](Slides/hutl_20231107.pdf)|
 |2023.10.10 | Yiwei Sun | - | A Survey on Compositional Understanding  | [Slides](Slides/syw_20231010.pdf)|
 |2023.09.26 | Zhiying Lu | - | I can't believe there is no training!  | [Slides](Slides/lzy_20230926.pdf)|
 |2023.09.12 | Yunning Cao | ICCV2023 | [I can’t believe there’s no images! Learning Visual Tasks Using Only Language Supervision](https://arxiv.org/pdf/2211.09778.pdf) | [Slides](Slides/cyn_20230912MG.pdf)|
