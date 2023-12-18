@@ -22,7 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2023.11.07 | Zhiying Lu | arxiv | [Intializing Models with Larger Ones](https://arxiv.org/abs/2311.18823) | [Slides](Slides/lzy_20231205.pdf)|
+|2023.11.21 | Zhiying Lu | arxiv | [Intializing Models with Larger Ones](https://arxiv.org/abs/2311.18823) | [Slides](Slides/lzy_20231205.pdf)|
 |2023.11.07 | Tianle Hu | ICCV2023 | [Waffling around for Performance: Visual Classification with Random Words and Broad Concepts](https://arxiv.org/abs/2306.07282) | [Slides](Slides/hutl_20231107.pdf)|
 |2023.11.01 | Yifan Gao | - | Image-based Visual Try-on | [Slides](Slides/gyf_20231101.pdf)|
 |2023.10.10 | Yiwei Sun | - | A Survey on Compositional Understanding  | [Slides](Slides/syw_20231010.pdf)|
