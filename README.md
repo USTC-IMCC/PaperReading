@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2024.04.08 | Yifan Gao | - | A Suvery on Text Image Generation | [Slides](Slides/gyf_20230408.pdf)|
 |2024.03.26 | Zhiying Lu | - | Pretrained ViT as Vision Encoder | [Slides](Slides/lzy_20240326.pdf)|
 |2024.03.19 | Yunning Cao | CVPR2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/pdf/2401.06209.pdf) | [Slides](Slides/cyn_20240319mof.pdf)|
 |2024.03.12 | Yiwei Sun | - | A Survey on MLLM: IT, ICL & CoT | [Slides](Slides/syw_20240312.pdf)|
