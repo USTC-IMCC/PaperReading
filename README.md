@@ -22,7 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2024.05.14 | Yixuan Zhang | - | Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding| [Slides](Slides/dbr_20240509.pdf)|
+|2024.05.14 | Yixuan Zhang | - | Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding| [Slides](Slides/zyx_20240514.pdf)|
 |2024.04.15 | Borui Ding | - | masked images are counterfactual samples for robust fine-tuning | [Slides](Slides/dbr_20240509.pdf)|
 |2024.04.08 | Yifan Gao | - | A Suvery on Text Image Generation | [Slides](Slides/gyf_20230408.pdf)|
 |2024.03.26 | Zhiying Lu | - | Pretrained ViT as Vision Encoder | [Slides](Slides/lzy_20240326.pdf)|
