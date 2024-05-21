@@ -22,6 +22,15 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2024.04.15 | Borui Ding | - | masked images are counterfactual samples for robust fine-tuning | [Slides](Slides/dbr_20240509.pdf)|
+|2024.04.08 | Yifan Gao | - | A Suvery on Text Image Generation | [Slides](Slides/gyf_20230408.pdf)|
+|2024.03.26 | Zhiying Lu | - | Pretrained ViT as Vision Encoder | [Slides](Slides/lzy_20240326.pdf)|
+|2024.03.19 | Yunning Cao | CVPR2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/pdf/2401.06209.pdf) | [Slides](Slides/cyn_20240319mof.pdf)|
+|2024.03.12 | Yiwei Sun | - | A Survey on MLLM: IT, ICL & CoT | [Slides](Slides/syw_20240312.pdf)|
+|2024.03.05 | TianLe Hu | CVPR2024 | [Descriptor and Word Soups: Overcoming the Parameter Efficiency Accuracy Tradeoff for Out-of-Distribution Few-shot Learning](https://arxiv.org/abs/2311.13612) | [Slides](Slides/hutl_20240305.pdf)|
+|2023.11.21 | Zhiying Lu | arxiv | [Intializing Models with Larger Ones](https://arxiv.org/abs/2311.18823) | [Slides](Slides/lzy_20231205.pdf)|
+|2023.11.07 | Tianle Hu | ICCV2023 | [Waffling around for Performance: Visual Classification with Random Words and Broad Concepts](https://arxiv.org/abs/2306.07282) | [Slides](Slides/hutl_20231107.pdf)|
+|2023.11.01 | Yifan Gao | - | Image-based Visual Try-on | [Slides](Slides/gyf_20231101.pdf)|
 |2023.10.10 | Yiwei Sun | - | A Survey on Compositional Understanding  | [Slides](Slides/syw_20231010.pdf)|
 |2023.09.26 | Zhiying Lu | - | I can't believe there is no training!  | [Slides](Slides/lzy_20230926.pdf)|
 |2023.09.12 | Yunning Cao | ICCV2023 | [I can’t believe there’s no images! Learning Visual Tasks Using Only Language Supervision](https://arxiv.org/pdf/2211.09778.pdf) | [Slides](Slides/cyn_20230912MG.pdf)|
