@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2024.06.04 | Peicheng Zhou | CVPR2024 | Exploration of the Reasons for Limiting MLLM Performance | [Slides](Slides/zhoupc_20240604.pdf)|
 |2024.05.28 | TianLe Hu | CVPR2024 | [Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://arxiv.org/abs/2310.00582) | [Slides](Slides/hutl_20240528.pdf)|
 |2024.05.21 | Yiwei Sun | - | Two papers about Video LLM| [Slides](Slides/syw_20240521.pdf)|
 |2024.05.14 | Yixuan Zhang | - | Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding| [Slides](Slides/zyx_20240514.pdf)|
