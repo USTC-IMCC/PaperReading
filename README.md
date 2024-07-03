@@ -23,6 +23,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
 |2024.07.02 | Yinglu Li | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
+|2024.06.25 | Bowei Pu | CVPR2024 | Two papers about Video CLIP and Long Video MLLM | [Slides](Slides/pbw_20240625.pdf)|
 |2024.06.11 | Yifan Gao | Arxiv | Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering | [Slides](Slides/gyf_20240625.pdf)|
 |2024.06.04 | Peicheng Zhou | CVPR2024 | Exploration of the reasons for Limiting MLLM performance | [Slides](Slides/zhoupc_20240604.pdf)|
 |2024.05.28 | TianLe Hu | CVPR2024 | [Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://arxiv.org/abs/2310.00582) | [Slides](Slides/hutl_20240528.pdf)|
