@@ -22,6 +22,9 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2024.07.02 | Yixuan Zhang | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
+|2024.07.02 | Yifan Gao | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
+|2024.07.02 | Zhiying Lu | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
 |2024.07.02 | Yinglu Li | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
 |2024.06.25 | Bowei Pu | CVPR2024 | Two papers about Video CLIP and Long Video MLLM | [Slides](Slides/pbw_20240625.pdf)|
 |2024.06.11 | Yifan Gao | Arxiv | Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering | [Slides](Slides/gyf_20240625.pdf)|
