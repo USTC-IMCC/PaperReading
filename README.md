@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2024.07.09 | Yunning Cao | CVPR2024 | [VISTA-LLAMA: Reducing Hallucination in Video Language Models via Equal Distance to Visual Tokens](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_VISTA-LLAMA_Reducing_Hallucination_in_Video_Language_Models_via_Equal_Distance_CVPR_2024_paper.pdf) | [Slides](Slides/cyn_20240709vistallama.pdf)|
 |2024.07.02 | Yinglu Li | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
 |2024.06.25 | Bowei Pu | CVPR2024 | Two papers about Video CLIP and Long Video MLLM | [Slides](Slides/pbw_20240625.pdf)|
 |2024.06.11 | Yifan Gao | Arxiv | Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering | [Slides](Slides/gyf_20240625.pdf)|
