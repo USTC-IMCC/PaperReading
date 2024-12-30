@@ -22,8 +22,22 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2024.04.08 | Borui Ding | NIPS2024 | Chain-of-Thought Reasoning without Prompting | [Slides](Slides/dbr_20241224.pdf)|
-|2024.04.08 | Borui Ding | - | masked images are counterfactual samples for robust fine-tuning | [Slides](Slides/dbr_20240509.pdf)|
+|2024.12.24 | Borui Ding | NIPS2024 | Chain-of-Thought Reasoning without Prompting | [Slides](Slides/dbr_20241224.pdf)|
+|2024.05.09 | Borui Ding | - | masked images are counterfactual samples for robust fine-tuning | [Slides](Slides/dbr_20240509.pdf)|
+|2024.11.19 | Zhiying Lu | - | Where Can We Mix? From Atom to Cosmic| [Slides](Slides/lzy_20241119.pdf)|
+|2024.10.10 | Yunning Cao | CVPR2024 | [Compositional Chain-of-Thought Prompting for Large Multimodal Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mitra_Compositional_Chain-of-Thought_Prompting_for_Large_Multimodal_Models_CVPR_2024_paper.pdf) | [Slides](Slides/cyn_20241010_sgg.pdf)|
+|2024.08.28 | Yixuan Zhang | Arxiv | xGen-MM (BLIP-3): A Family of Open Large Multimodal Models | [Slides](Slides/zyx_20240827.pdf)|
+|2024.08.21 | Yifan Gao | Arxiv | ControlNeXt: Powerful and Efficient Control for Image and Video Generation | [Slides](Slides/gyf_20240723.pdf)|
+|2024.07.16 | Zhiying Lu | Arxiv | Cambrian-1:A Fully Open, Vision-CentricExploration of Multimodal LLMs | [Slides](Slides/lzy_20240716.pdf)|
+|2024.07.09 | Yunning Cao | CVPR2024 | [VISTA-LLAMA: Reducing Hallucination in Video Language Models via Equal Distance to Visual Tokens](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_VISTA-LLAMA_Reducing_Hallucination_in_Video_Language_Models_via_Equal_Distance_CVPR_2024_paper.pdf) | [Slides](Slides/cyn_20240709vistallama.pdf)|
+|2024.07.02 | Yinglu Li | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
+|2024.06.25 | Bowei Pu | CVPR2024 | Two papers about Video CLIP and Long Video MLLM | [Slides](Slides/pbw_20240625.pdf)|
+|2024.06.11 | Yifan Gao | Arxiv | Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering | [Slides](Slides/gyf_20240625.pdf)|
+|2024.06.04 | Peicheng Zhou | CVPR2024 | Exploration of the reasons for Limiting MLLM performance | [Slides](Slides/zhoupc_20240604.pdf)|
+|2024.05.28 | TianLe Hu | CVPR2024 | [Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://arxiv.org/abs/2310.00582) | [Slides](Slides/hutl_20240528.pdf)|
+|2024.05.21 | Yiwei Sun | - | Two papers about Video LLM| [Slides](Slides/syw_20240521.pdf)|
+|2024.05.14 | Yixuan Zhang | - | Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding| [Slides](Slides/zyx_20240514.pdf)|
+|2024.04.15 | Borui Ding | - | masked images are counterfactual samples for robust fine-tuning | [Slides](Slides/dbr_20240509.pdf)|
 |2024.04.08 | Yifan Gao | - | A Suvery on Text Image Generation | [Slides](Slides/gyf_20230408.pdf)|
 |2024.03.26 | Zhiying Lu | - | Pretrained ViT as Vision Encoder | [Slides](Slides/lzy_20240326.pdf)|
 |2024.03.19 | Yunning Cao | CVPR2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/pdf/2401.06209.pdf) | [Slides](Slides/cyn_20240319mof.pdf)|
