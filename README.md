@@ -22,7 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|2024.12.17 | Borui Ding | - | Chain-of-Thought Reasoning without Prompting| [Slides](Slides/dbr_20241224.pdf)|
+|2024.12.24 | Borui Ding | - | Chain-of-Thought Reasoning without Prompting| [Slides](Slides/dbr_20241224.pdf)|
 |2024.12.17 | Yiwei Sun | - | A Few Papers about Safety Alignment for MLLM| [Slides](Slides/syw_20241217.pdf)|
 |2024.11.19 | Zhiying Lu | - | Where Can We Mix? From Atom to Cosmic| [Slides](Slides/lzy_20241119.pdf)|
 |2024.10.10 | Yunning Cao | CVPR2024 | [Compositional Chain-of-Thought Prompting for Large Multimodal Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mitra_Compositional_Chain-of-Thought_Prompting_for_Large_Multimodal_Models_CVPR_2024_paper.pdf) | [Slides](Slides/cyn_20241010_sgg.pdf)|
