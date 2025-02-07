@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2025.01.14 | Luohao Lin | - | AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting| [Slides](Slides/llh_20250114.pdf)|
 |2024.12.24 | Borui Ding | - | Chain-of-Thought Reasoning without Prompting| [Slides](Slides/dbr_20241224.pdf)|
 |2024.12.17 | Yiwei Sun | - | A Few Papers about Safety Alignment for MLLM| [Slides](Slides/syw_20241217.pdf)|
 |2024.11.19 | Zhiying Lu | - | Where Can We Mix? From Atom to Cosmic| [Slides](Slides/lzy_20241119.pdf)|
