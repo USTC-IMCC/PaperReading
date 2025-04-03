@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2025.04.03 | Yixuan Zhang | - | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | [Slides](Slides/zyx_20250402.pdf) |
 |2025.02.25 | Yinglu Li | - | Parametric Retrieval Augmented Generation | [Slides](Slides/liyl20250225.pdf) |
 |2025.01.14 | Luohao Lin | - | AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting| [Slides](Slides/llh_20250114.pdf)|
 |2024.12.24 | Borui Ding | - | Chain-of-Thought Reasoning without Prompting| [Slides](Slides/dbr_20241224.pdf)|
