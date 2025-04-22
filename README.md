@@ -22,6 +22,17 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2025.04.03 | Yixuan Zhang | - | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | [Slides](Slides/zyx_20250403.pdf) |
+|2025.02.25 | Yinglu Li | - | Parametric Retrieval Augmented Generation | [Slides](Slides/liyl20250225.pdf) |
+|2025.01.14 | Luohao Lin | - | AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting| [Slides](Slides/llh_20250114.pdf)|
+|2024.12.24 | Borui Ding | - | Chain-of-Thought Reasoning without Prompting| [Slides](Slides/dbr_20241224.pdf)|
+|2024.12.17 | Yiwei Sun | - | A Few Papers about Safety Alignment for MLLM| [Slides](Slides/syw_20241217.pdf)|
+|2024.11.19 | Zhiying Lu | - | Where Can We Mix? From Atom to Cosmic| [Slides](Slides/lzy_20241119.pdf)|
+|2024.10.10 | Yunning Cao | CVPR2024 | [Compositional Chain-of-Thought Prompting for Large Multimodal Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mitra_Compositional_Chain-of-Thought_Prompting_for_Large_Multimodal_Models_CVPR_2024_paper.pdf) | [Slides](Slides/cyn_20241010_sgg.pdf)|
+|2024.08.28 | Yixuan Zhang | Arxiv | xGen-MM (BLIP-3): A Family of Open Large Multimodal Models | [Slides](Slides/zyx_20240827.pdf)|
+|2024.08.21 | Yifan Gao | Arxiv | ControlNeXt: Powerful and Efficient Control for Image and Video Generation | [Slides](Slides/gyf_20240723.pdf)|
+|2024.07.16 | Zhiying Lu | Arxiv | Cambrian-1:A Fully Open, Vision-CentricExploration of Multimodal LLMs | [Slides](Slides/lzy_20240716.pdf)|
+|2024.07.09 | Yunning Cao | CVPR2024 | [VISTA-LLAMA: Reducing Hallucination in Video Language Models via Equal Distance to Visual Tokens](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_VISTA-LLAMA_Reducing_Hallucination_in_Video_Language_Models_via_Equal_Distance_CVPR_2024_paper.pdf) | [Slides](Slides/cyn_20240709vistallama.pdf)|
 |2024.07.02 | Yinglu Li | Arxiv | AnyTrans: Translate AnyText in the Image with Large Scale Models | [Slides](Slides/liyl_20240702.pdf)|
 |2024.06.25 | Bowei Pu | CVPR2024 | Two papers about Video CLIP and Long Video MLLM | [Slides](Slides/pbw_20240625.pdf)|
 |2024.06.11 | Yifan Gao | Arxiv | Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering | [Slides](Slides/gyf_20240625.pdf)|
