@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2025.06.09 | Yunning Cao | arxiv | [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/pdf/2505.22019)|[Slides](Slides/cyn_20250609_vrag.pdf)|
 |2025.04.16 | Peicheng Zhou | - | MULTIMODAL SITUATIONAL SAFETY | [Slides](Slides/zpc_20250604.pdf) |
 |2025.04.16 | Bowei Pu | - | MultiModal PRM | [Slides](Slides/pbw_20250414.pdf) |
 |2025.04.03 | Yixuan Zhang | - | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | [Slides](Slides/zyx_20250403.pdf) |
