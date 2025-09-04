@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2025.08.27 | Yinglu Li | - | VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning | [Slides}(Slides/lyl_20250827.pdf) |
 |2025.06.18 | Zhiying Lu | - | Tokenizers for Unified Model | [Slides](Slides/lzy_20250618.pdf) |
 |2025.06.09 | Yunning Cao | - | [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) | [Slides](Slides/cyn_20250609_vrag.pdf) |
 |2025.04.16 | Peicheng Zhou | - | MULTIMODAL SITUATIONAL SAFETY | [Slides](Slides/zpc_20250604.pdf) |
