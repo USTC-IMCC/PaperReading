@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2025.10.15 | Bowei Pu| - | Ego Video Understanding| [Slides](Slides/llh_20250903.pdf) |
 |2025.09.03 | Luohao Lin | - | A few papers about Security for CLIP retrieval unlearning | [Slides](Slides/llh_20250903.pdf) |
 |2025.08.27 | Yinglu Li | - | VisionThink | [Slides](Slides/liyl20250827.pdf) |
 |2025.07.08 | Bowei Pu | - | RL Training Trick | [Slides](Slides/pbw_20250708.pptx) |
