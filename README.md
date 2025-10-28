@@ -22,6 +22,7 @@ For any interest in our report or our lab, please contact Doctor [Chuanbin Liu](
 
 | Date       | Presenter                                        | Venue        | Paper Title                                                                                                                                                                                                                  | Slides                            |
 |:----------:|:------------------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
+|2025.10.22 | Yiwei Sun| - | Cross-modal Machine Unlearning| [Slides](Slides/syw_20251021.pdf) |
 |2025.10.15 | Bowei Pu| - | Ego Video Understanding| [Slides](Slides/pbw_20251015.pdf) |
 |2025.09.03 | Luohao Lin | - | A few papers about Security for CLIP retrieval unlearning | [Slides](Slides/llh_20250903.pdf) |
 |2025.08.27 | Yinglu Li | - | VisionThink | [Slides](Slides/liyl20250827.pdf) |
